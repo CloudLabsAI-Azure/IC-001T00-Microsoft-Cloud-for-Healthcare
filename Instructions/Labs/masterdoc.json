@@ -1,52 +1,41 @@
 [
     {
-        "Name": "DevOps-DevSecOps Hackathon Day 2",
+        "Name": "Microsoft Cloud for Healthcare",
         "Language": "English",
-        "BaseURL": "https://github.com/CloudLabs-MOC/Intro-to-Intelligent-Apps-Challenge-lab",
+        "BaseURL": "https://github.com/CloudLabsAI-Azure/IC-001T00-Microsoft-Cloud-for-Healthcare",
         "Files": [
             {
-                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/main/Scenario/Hackathon-Day-2/README.md",
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/IC-001T00-Microsoft-Cloud-for-Healthcare/refs/heads/master/Instructions/Labs/Lab07_Deploy%20Azure%20Health%20Data%20Services%20workspace%20and%20FHIR%20service.md",
                 "Order": 1
             },
             {
-                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/main/Scenario/Hackathon-Day-2/Use-Case.md",
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/IC-001T00-Microsoft-Cloud-for-Healthcare/refs/heads/master/Instructions/Labs/Lab08_Convert%20HL7v2%20and%20C-CDA%20to%20FHIR.md",
                 "Order": 2
             },
             {
-                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/main/Scenario/Hackathon-Day-2/Challenge-1.md",
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/IC-001T00-Microsoft-Cloud-for-Healthcare/refs/heads/master/Instructions/Labs/Lab09_Ingest_to_FHIR.md",
                 "Order": 3
             },
             {
-                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/main/Scenario/Hackathon-Day-2/Challenge-2.md",
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/IC-001T00-Microsoft-Cloud-for-Healthcare/refs/heads/master/Instructions/Labs/Lab10_Query%20and%20Search%20FHIR.md",
                 "Order": 4
             },
             {
-                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/main/Scenario/Hackathon-Day-2/Challenge-3.md",
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/IC-001T00-Microsoft-Cloud-for-Healthcare/refs/heads/master/Instructions/Labs/Lab11_Export%20and%20Anonymize%20Data.md",
                 "Order": 5
             },
             {
-                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/main/Scenario/Hackathon-Day-2/Challenge-4.md",
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/IC-001T00-Microsoft-Cloud-for-Healthcare/refs/heads/master/Instructions/Labs/Lab12_FHIR%20service%20consent%20capabilities.md",
                 "Order": 6
             },
             {
-                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/main/Scenario/Hackathon-Day-2/Challenge-5.md",
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/IC-001T00-Microsoft-Cloud-for-Healthcare/refs/heads/master/Instructions/Labs/Lab13_DICOM%20Service.md",
                 "Order": 7
             },
             {
-                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/main/Scenario/Hackathon-Day-2/Challenge-6.md",
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/IC-001T00-Microsoft-Cloud-for-Healthcare/refs/heads/master/Instructions/Labs/Lab14_MedTech%20service.md",
                 "Order": 8
-            },
-            {
-                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/main/Scenario/Hackathon-Day-2/Challenge-7.md",
-                "Order": 9
-            },
-            {
-                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/main/Scenario/Hackathon-Day-2/Challenge-8.md",
-                "Order": 10
-            },
-            {
-                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/main/Scenario/Hackathon-Day-2/Challenge-9.md",
-                "Order": 11
+            
             }
         ]
     }
